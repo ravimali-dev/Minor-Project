@@ -1,6 +1,6 @@
 # Live Video Conferencing and Chat Web Application
 
-## Project Description
+Project Description
 This project is a web-based Live Video Conferencing and Real-Time Chat application similar to Zoom.  
 It allows users to create or join meeting rooms and communicate using live video, audio, real-time chat, and screen sharing.
 
