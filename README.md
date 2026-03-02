@@ -12,7 +12,7 @@ The project is developed as a minor project for academic purposes.
 - Socket.io (Real-time chat)
 - Node.js
 - Express.js
-- MongoDB
+- mongodb 
 
 ## Team Members
 - Ravi Mali (Roll No: 23CA2581048)
