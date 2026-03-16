@@ -8,7 +8,7 @@ The project is developed as a minor project for academic purposes.
 
 ## Technologies Used
 - React.js (Frontend)
-- WebRTC (Live video and audio communication)
+- WebRTC (Live video an.audio communication)
 - Socket.io (Real-time chat)
 - Node.js
 - Express.js
